@@ -13,7 +13,7 @@
 <title>TODO Tasks</title>
 <%@ include file="bootstrap.jsp" %>
 </head>
-<body class="text-center" style="background-color:FFC5D3">
+<body class="text-center" style="background-color:FFC5D3; background-image: url('background1.jpg'); background-size: cover; background-position: norepeat;">
 <%@ include file="NavBar.jsp" %>
 
 <h2 class="text-center " style="color:black">TODO-Task</h2>

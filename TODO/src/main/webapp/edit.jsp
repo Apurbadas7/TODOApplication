@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <title>Edit Task</title>
 </head>
-<body class="text-center">
+<body class="text-center" style="background-color:FFC5D3; background-image: url('background1.jpg'); background-size: cover; background-position: center">
 <%@ include file="NavBar.jsp" %>
 
 <div class="container mt-5">

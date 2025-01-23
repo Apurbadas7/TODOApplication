@@ -8,7 +8,7 @@
 <title>Add Task</title>
 <%@ include file="bootstrap.jsp" %>
 </head>
-<body>
+<body style=" background-color:FFC5D3; background-image: url('background1.jpg'); background-size: cover; background-position: center">
 <%@ include file="NavBar.jsp" %>
 <h2 class="text-center " style="color:black">Add Task</h2>
 
